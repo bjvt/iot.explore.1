@@ -1,3 +1,4 @@
 # iot.explore.1
-Exploring IOT features
-read the iot.notes.txt file for the journal in working this
+**Exploring IOT features**
+
+This is an initial exploraton of the IoT systems that utilize primarily LoRA and MQTT
