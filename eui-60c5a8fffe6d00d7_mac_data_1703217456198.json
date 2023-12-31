@@ -1,0 +1,1877 @@
+{
+  "mac_state": {
+    "current_parameters": {
+      "max_eirp": 30,
+      "adr_data_rate_index": 3,
+      "adr_tx_power_index": 10,
+      "adr_nb_trans": 1,
+      "rx1_delay": 5,
+      "rx2_data_rate_index": 8,
+      "rx2_frequency": "923300000",
+      "channels": [
+        {
+          "uplink_frequency": "902300000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "902500000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "902700000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "902900000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "903100000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "903300000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "903500000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "903700000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "903900000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "904100000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "904300000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "904500000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "904700000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "904900000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "905100000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "905300000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "905500000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "905700000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "905900000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "906100000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "906300000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "906500000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "906700000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "906900000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "907100000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "907300000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "907500000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "907700000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "907900000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "908100000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "908300000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "908500000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "908700000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "908900000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "909100000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "909300000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "909500000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "909700000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "909900000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "910100000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "910300000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "910500000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "910700000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "910900000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "911100000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "911300000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "911500000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "911700000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "911900000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "912100000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "912300000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "912500000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "912700000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "912900000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "913100000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "913300000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "913500000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "913700000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "913900000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "914100000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "914300000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "914500000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "914700000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "914900000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "903000000",
+          "downlink_frequency": "923300000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        },
+        {
+          "uplink_frequency": "904600000",
+          "downlink_frequency": "923900000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "906200000",
+          "downlink_frequency": "924500000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        },
+        {
+          "uplink_frequency": "907800000",
+          "downlink_frequency": "925100000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        },
+        {
+          "uplink_frequency": "909400000",
+          "downlink_frequency": "925700000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        },
+        {
+          "uplink_frequency": "911000000",
+          "downlink_frequency": "926300000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        },
+        {
+          "uplink_frequency": "912600000",
+          "downlink_frequency": "926900000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        },
+        {
+          "uplink_frequency": "914200000",
+          "downlink_frequency": "927500000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        }
+      ],
+      "adr_ack_limit_exponent": "ADR_ACK_LIMIT_64",
+      "adr_ack_delay_exponent": "ADR_ACK_DELAY_32",
+      "ping_slot_data_rate_index_value": 0
+    },
+    "desired_parameters": {
+      "max_eirp": 30,
+      "adr_data_rate_index": 3,
+      "adr_tx_power_index": 10,
+      "adr_nb_trans": 1,
+      "rx1_delay": 5,
+      "rx2_data_rate_index": 8,
+      "rx2_frequency": "923300000",
+      "channels": [
+        {
+          "uplink_frequency": "902300000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "902500000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "902700000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "902900000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "903100000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "903300000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "903500000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "903700000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "903900000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "904100000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "904300000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "904500000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "904700000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "904900000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "905100000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "905300000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "905500000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "905700000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "905900000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "906100000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "906300000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "906500000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "906700000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "906900000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "907100000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "907300000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "907500000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "907700000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "907900000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "908100000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "908300000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "908500000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "908700000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "908900000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "909100000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "909300000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "909500000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "909700000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "909900000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "910100000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "910300000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "910500000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "910700000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "910900000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "911100000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "911300000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "911500000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "911700000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "911900000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "912100000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "912300000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "912500000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "912700000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "912900000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "913100000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "913300000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "913500000",
+          "downlink_frequency": "923300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "913700000",
+          "downlink_frequency": "923900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "913900000",
+          "downlink_frequency": "924500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "914100000",
+          "downlink_frequency": "925100000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "914300000",
+          "downlink_frequency": "925700000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "914500000",
+          "downlink_frequency": "926300000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "914700000",
+          "downlink_frequency": "926900000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "914900000",
+          "downlink_frequency": "927500000",
+          "max_data_rate_index": 3
+        },
+        {
+          "uplink_frequency": "903000000",
+          "downlink_frequency": "923300000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        },
+        {
+          "uplink_frequency": "904600000",
+          "downlink_frequency": "923900000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4,
+          "enable_uplink": true
+        },
+        {
+          "uplink_frequency": "906200000",
+          "downlink_frequency": "924500000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        },
+        {
+          "uplink_frequency": "907800000",
+          "downlink_frequency": "925100000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        },
+        {
+          "uplink_frequency": "909400000",
+          "downlink_frequency": "925700000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        },
+        {
+          "uplink_frequency": "911000000",
+          "downlink_frequency": "926300000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        },
+        {
+          "uplink_frequency": "912600000",
+          "downlink_frequency": "926900000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        },
+        {
+          "uplink_frequency": "914200000",
+          "downlink_frequency": "927500000",
+          "min_data_rate_index": 4,
+          "max_data_rate_index": 4
+        }
+      ],
+      "adr_ack_limit_exponent": "ADR_ACK_LIMIT_64",
+      "adr_ack_delay_exponent": "ADR_ACK_DELAY_32",
+      "ping_slot_data_rate_index_value": 0
+    },
+    "device_class": "CLASS_C",
+    "lorawan_version": "MAC_V1_0_3",
+    "last_confirmed_downlink_at": "2023-12-22T03:23:25.271348190Z",
+    "last_dev_status_f_cnt_up": 1,
+    "ping_slot_periodicity": "PING_EVERY_128S",
+    "rx_windows_available": true,
+    "recent_uplinks": [
+      {
+        "payload": {
+          "m_hdr": {},
+          "mic": "7aeQ0A==",
+          "join_request_payload": {
+            "join_eui": "00137A1000000000",
+            "dev_eui": "60C5A8FFFE6D00D7",
+            "dev_nonce": "E2F5"
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -47,
+            "snr": 13.2,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -47,
+            "snr": 13.2,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T00:13:06.643007010Z",
+        "device_channel_index": 12
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "dt/3Nw==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              }
+            },
+            "f_port": 8,
+            "frm_payload": "qtIT50eGKClk3eGSu+3YWKzTBoPDIQhZETt/"
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -34,
+            "snr": 11.5,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -52,
+            "snr": 11.5,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T00:14:52.190194173Z",
+        "device_channel_index": 10
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "ljMzuQ==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 1,
+              "f_opts": "BgwG"
+            },
+            "f_port": 8,
+            "frm_payload": "lexz0yUZVuRjZbrwtbgpeC9Q1n2KY03tRSbk",
+            "full_f_cnt": 1
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -35,
+            "snr": 13.5,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -54,
+            "snr": 13.5,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T00:26:38.140359009Z",
+        "device_channel_index": 15
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "f0drJw==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 2
+            },
+            "f_port": 8,
+            "frm_payload": "1cOljGi+pko0xLIB57acUiAnelA94bprtinD",
+            "full_f_cnt": 2
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -34,
+            "snr": 13.5,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -42,
+            "snr": 14,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T00:38:25.990050584Z",
+        "device_channel_index": 11
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "lHa3UQ==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 3,
+              "f_opts": "Awc="
+            },
+            "f_port": 8,
+            "frm_payload": "iO6a24Qg165bxkKzjXCLvrMqSDAH25Tnecp3",
+            "full_f_cnt": 3
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -43,
+            "snr": 13,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T00:50:11.962599856Z",
+        "device_channel_index": 8
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "RoyAlw==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 4,
+              "f_opts": "Awc="
+            },
+            "f_port": 8,
+            "frm_payload": "x+3+u+4QFYL4LL4eCxVSgCeBDacnRoOWgetS",
+            "full_f_cnt": 4
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -33,
+            "snr": 13.8,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -55,
+            "snr": 14.2,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T01:01:57.900066954Z",
+        "device_channel_index": 9
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "0WaOjw==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 5
+            },
+            "f_port": 8,
+            "frm_payload": "IjQq+FBYqTihAz6zlr148z9gV7jiQ+0SBCNo",
+            "full_f_cnt": 5
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -34,
+            "snr": 13.5,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -51,
+            "snr": 13.8,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T01:13:45.732571684Z",
+        "device_channel_index": 13
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "pKjqeA==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 6,
+              "f_opts": "Awc="
+            },
+            "f_port": 8,
+            "frm_payload": "xzQchBcSQ0drDXmKeusn+amcC0AlLTuJdmMZ",
+            "full_f_cnt": 6
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -34,
+            "snr": 13.8,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -49,
+            "snr": 14,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T01:25:31.689985386Z",
+        "device_channel_index": 14
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "vRMyGg==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 7,
+              "f_opts": "Awc="
+            },
+            "f_port": 8,
+            "frm_payload": "jLI7LefeCpy/9D+nyZwpu+J4yw4GOwl4QNYj",
+            "full_f_cnt": 7
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -36,
+            "snr": 13.8,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -52,
+            "snr": 13.8,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T01:37:17.621956693Z",
+        "device_channel_index": 13
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "ZbZABQ==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 8,
+              "f_opts": "Awc="
+            },
+            "f_port": 8,
+            "frm_payload": "ayNxmc8R5YK0nvA37Gcnyf8yUa0MolGOoG87",
+            "full_f_cnt": 8
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -38,
+            "snr": 13.5,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -46,
+            "snr": 13.5,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T01:49:03.594199364Z",
+        "device_channel_index": 11
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "pANKyw==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 9,
+              "f_opts": "Awc="
+            },
+            "f_port": 8,
+            "frm_payload": "+MuUCFYgaZCslTyJgFXKbClbfkh38f2mLaXg",
+            "full_f_cnt": 9
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -40,
+            "snr": 13.5,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -59,
+            "snr": 13.2,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T02:00:49.561368106Z",
+        "device_channel_index": 15
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "Cde2zg==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 10,
+              "f_opts": "Awc="
+            },
+            "f_port": 8,
+            "frm_payload": "xEMp9VedvSwp+frr/uoDPSlbNQWQtYXvmqIJ",
+            "full_f_cnt": 10
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -41,
+            "snr": 13.5,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -54,
+            "snr": 13.2,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T02:12:35.054474967Z",
+        "device_channel_index": 9
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "ruIFnQ==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 11,
+              "f_opts": "AwM="
+            },
+            "f_port": 8,
+            "frm_payload": "uw8QvPiLC/Xe8m6do33TBKvYMWYnGTUM78Ig",
+            "full_f_cnt": 11
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -42,
+            "snr": 9.8,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -52,
+            "snr": 11.2,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T02:24:21.012304441Z",
+        "device_channel_index": 10
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "4eUD4A==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 12
+            },
+            "f_port": 8,
+            "frm_payload": "rVacG+OZX0LOJLMLJNJfqIb0Hnl88j6OQCxZ",
+            "full_f_cnt": 12
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -43,
+            "snr": 13.2,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -58,
+            "snr": 13.8,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T02:36:08.862545402Z",
+        "device_channel_index": 14
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "yZWY4Q==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 13
+            },
+            "f_port": 8,
+            "frm_payload": "wFZsxGKZOERTE/hqGOpIywLq9My1FVj60yq5",
+            "full_f_cnt": 13
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -42,
+            "snr": 13.2,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -50,
+            "snr": 13,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T02:47:56.728197639Z",
+        "device_channel_index": 8
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "14+nNw==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 14
+            },
+            "f_port": 8,
+            "frm_payload": "SpBf0uZYf3Gb9KFOrx7M6b78cNDOxd2+URnL",
+            "full_f_cnt": 14
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -42,
+            "snr": 13.2,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -55,
+            "snr": 13.2,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T02:59:44.586215337Z",
+        "device_channel_index": 12
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "p1GaDQ==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 15
+            },
+            "f_port": 8,
+            "frm_payload": "Par208qe608yunLdgKNvIik8ZGNYLxN1mbp8",
+            "full_f_cnt": 15
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -43,
+            "snr": 13.8,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -56,
+            "snr": 13.2,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T03:11:32.422396207Z",
+        "device_channel_index": 13
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "WO//WQ==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 16
+            },
+            "f_port": 8,
+            "frm_payload": "2AShJ+WPggfg8M0Ti+jIOOc0AISgy0adx9wa",
+            "full_f_cnt": 16
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -42,
+            "snr": 14,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -54,
+            "snr": 13.2,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T03:23:20.272155438Z",
+        "device_channel_index": 12
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "pLjxWw==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 17,
+              "f_opts": "AwM="
+            },
+            "f_port": 8,
+            "frm_payload": "rZGlnlt03IrhU25e/+KCLCVwN38yHVJ2jNnx",
+            "full_f_cnt": 17
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -42,
+            "snr": 13.8,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -54,
+            "snr": 13.2,
+            "downlink_path_constraint": "DOWNLINK_PATH_CONSTRAINT_NEVER"
+          }
+        ],
+        "received_at": "2023-12-22T03:35:06.247847733Z",
+        "device_channel_index": 15
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_UP"
+          },
+          "mic": "VlNIww==",
+          "mac_payload": {
+            "f_hdr": {
+              "dev_addr": "260CD9C8",
+              "f_ctrl": {
+                "adr": true
+              },
+              "f_cnt": 18
+            },
+            "f_port": 8,
+            "frm_payload": "SkOYGXx49RMYW2XmPnh9Z1TnnUlCHbohu20v",
+            "full_f_cnt": 18
+          }
+        },
+        "settings": {
+          "data_rate": {
+            "lora": {
+              "bandwidth": 125000,
+              "spreading_factor": 7,
+              "coding_rate": "4/5"
+            }
+          }
+        },
+        "rx_metadata": [
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-a84041ffff2660d4",
+              "eui": "00250C0001000C6A"
+            },
+            "channel_rssi": -49,
+            "snr": 13.5,
+            "uplink_token": "CiIKIAoUZXVpLWE4NDA0MWZmZmYyNjYwZDQSCAAlDAABAAxqEM+lhZYIGgsIro2UrAYQkKSxKiCY8a2Z7KavAQ=="
+          },
+          {
+            "gateway_ids": {
+              "gateway_id": "eui-2cf7f1115230002c",
+              "eui": "2CF7F1115230002C"
+            },
+            "channel_rssi": -42,
+            "snr": 14.2,
+            "uplink_token": "CiIKIAoUZXVpLTJjZjdmMTExNTIzMDAwMmMSCCz38RFSMAAsEPuuqLkIGgsIro2UrAYQodrKLSD48K7j/7eqAQ=="
+          }
+        ],
+        "received_at": "2023-12-22T03:46:54.089941262Z",
+        "correlation_ids": [
+          "gs:uplink:01HJ7T4609SN5FH09XW7P84YQY"
+        ],
+        "device_channel_index": 9
+      }
+    ],
+    "recent_downlinks": [
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_DOWN"
+          },
+          "mac_payload": {
+            "full_f_cnt": 7
+          }
+        }
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_DOWN"
+          },
+          "mac_payload": {
+            "full_f_cnt": 8
+          }
+        }
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_DOWN"
+          },
+          "mac_payload": {
+            "full_f_cnt": 9
+          }
+        }
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_DOWN"
+          },
+          "mac_payload": {
+            "full_f_cnt": 10
+          }
+        }
+      },
+      {
+        "payload": {
+          "m_hdr": {
+            "m_type": "UNCONFIRMED_DOWN"
+          },
+          "mac_payload": {
+            "full_f_cnt": 11
+          }
+        },
+        "correlation_ids": [
+          "gs:uplink:01HJ7RS1AE1B9FA3Q1M0FVTHVF",
+          "ns:downlink:01HJ7RS1QBJJSXBH37CY6X5JEQ",
+          "ns:transmission:01HJ7RS1QBTYCJE1FHERZ95RE5"
+        ]
+      }
+    ],
+    "rejected_adr_tx_power_indexes": [
+      11,
+      12
+    ],
+    "last_downlink_at": "2023-12-22T03:23:25.271348190Z",
+    "last_adr_change_f_cnt_up": 10
+  },
+  "mac_settings": {
+    "class_b_timeout": "60s",
+    "ping_slot_periodicity": "PING_EVERY_128S",
+    "ping_slot_data_rate_index": 0,
+    "class_c_timeout": "60s",
+    "supports_32_bit_f_cnt": true
+  }
+}

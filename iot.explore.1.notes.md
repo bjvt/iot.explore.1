@@ -1,20 +1,27 @@
+Running TTN MQTT which publishes to nam
+
 https://www.thethingsnetwork.org/forum/t/how-can-i-forward-the-messages-from-ttn-to-mqtt-server-is-there-any-option-for-mqtt-integration/29060
----------- this is the exercise I'm following with the TTN, PI4, MQTTX
+----------
+
 mqtt key on TTN generated 10/24@23:03 CST,  641-1306-1-ND
-NNSXS.BN3CPH3WSKPBYBMN74PL44V7IL32S2SLQ4KCWSA.XWT5QIQLZLPKJHYDMKIAXVRZD6ANP3D35T5Q2UVMPXPE36W235RQ
+iot-barry@ttn - NNSXS.BN3CPH3WSKPBYBMN74PL44V7IL32S2SLQ4KCWSA.XWT5QIQLZLPKJHYDMKIAXVRZD6ANP3D35T5Q2UVMPXPE36W235RQ
+rak-test-app-bvt@ttn - NNSXS.YRNDUHJMGIBVBSU72GR3BIBH2TIFRDVQU45XRAI.PJDORSNLAZSXGTDG3VTMUVQWZQ4TP44UQZIVIAU3XST6OATMKRDA
 
+Mosquitto Effort on rak
+mosquitto_sub -h nam1.cloud.thethings.network -t '#' -u "rak-test-app-bvt@ttn" -P "NNSXS.YRNDUHJMGIBVBSU72GR3BIBH2TIFRDVQU45XRAI.PJDORSNLAZSXGTDG3VTMUVQWZQ4TP44UQZIVIAU3XST6OATMKRDA" -d
 
----- this is the bash script on the PI4	
+---- this is the bash script on the PI4    
 pi@p0:~ $ cat bash.time.sh 
 #!/bin/bash
 
     export PATH=/usr/local/bin:$PATH
-
+    
     counter=0
     #rak811v3 hard-reset
     #sleep 15
     rak811v3 join > /home/pi.log 2>&1
     sleep 10
+
 while true; do
     current_time=$(date +%Y%m%d%H%M%S)
     rak811v3 send  $current_time
@@ -26,10 +33,12 @@ while true; do
     sleep 1800  # Sleep for 15 minutes
 
 done
-# sudo systemctl start bash.time.service
-# sudo journalctl -u bash.service
-# sudo systemctl status  bash.service
 
+# sudo systemctl start bash.time.service
+
+# sudo journalctl -u bash.service
+
+# sudo systemctl status  bash.service
 
 ---------- this is the service unit file ------------/etc/systemd/system.bash.service -755- permission -----------
 pi@p0:/etc/systemd/system $ cat bash.service
@@ -93,4 +102,3 @@ topic: "my-topic-threshold"
 qos: 1
 retain: true
 payload: msg.payload.isOverThreshold
-
